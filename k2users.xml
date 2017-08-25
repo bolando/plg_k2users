@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7.5" type="plugin" group="search" method="upgrade">
+    <name>Search - K2 users</name>
+    <author>Andrzej Bolewski</author>
+    <creationDate>25.08.2017</creationDate>
+    <copyright>Copyright (c) 2006 - 2017 Solmedia</copyright>
+    <authorEmail>biuro@solmedia.pl</authorEmail>
+    <authorUrl>www.solmedia.pl</authorUrl>
+    <version>1.0</version>
+    <license></license>
+    <description>K2 users search</description>
+    <files>
+        <filename plugin="k2users">k2users.php</filename>
+    </files>
+</extension>
